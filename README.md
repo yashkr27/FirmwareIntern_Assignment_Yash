@@ -51,7 +51,7 @@
 - Code is well-documented with comments.
 - Markdown notes include pinout diagrams and bring-up instructions.
 - Gerbers are fabrication-ready and verified in Gerber Viewer.
-
+- Without the git attributes file, loopback.mp4 would not be pushed(needed git lfs, due to its size).
 ---
 
  **Author:** <Yash Kr. Singh>  
